@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: guides
 title: [Guide] How to setup pfsense with Telenor Internet and Telenor IPTV
 ---
 

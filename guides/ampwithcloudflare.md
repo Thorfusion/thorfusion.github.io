@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: guides
 title: [Guide] How to use AMP with Cloudflare ACCESS.md
 ---
 
