@@ -2,6 +2,9 @@
 layout: minecraft
 title: Minecraft
 ---
+
+## Minecraft
+
 sdfgh
 sdfh
 sdf
