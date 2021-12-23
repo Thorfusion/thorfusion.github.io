@@ -1,5 +1,3 @@
----
-layout: none
-title: Download
----
-test
+## Downloads
+
+Download
