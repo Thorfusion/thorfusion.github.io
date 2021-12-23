@@ -1,6 +1,6 @@
 ---
 layout: guides
-title: [Guide] How to use AMP with Cloudflare ACCESS.md
+title: How to use AMP with Cloudflare ACCESS.md
 description: Thorfusion Guides
 ---
 

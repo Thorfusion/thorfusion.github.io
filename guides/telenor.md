@@ -1,6 +1,6 @@
 ---
 layout: guides
-title: [Guide] How to setup pfsense with Telenor Internet and Telenor IPTV
+title: How to setup pfsense with Telenor Internet and Telenor IPTV
 description: Thorfusion Guides
 ---
 
