@@ -5,4 +5,4 @@ title: Modpacks
 
 ## Modpacks
 
-test
+# [Terralization Modpack](modpacks/terralization)
