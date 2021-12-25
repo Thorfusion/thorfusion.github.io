@@ -1,6 +1,7 @@
 ---
 layout: terra
 title: Terralization Modpack
+description: Thorfusion Modpacks
 ---
 
 ## Terralization Modpack

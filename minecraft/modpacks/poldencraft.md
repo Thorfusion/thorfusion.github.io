@@ -1,6 +1,7 @@
 ---
 layout: modpacks
 title: Poldencraft Modpack
+description: Thorfusion Modpacks
 ---
 
 ## Poldencraft Modpack

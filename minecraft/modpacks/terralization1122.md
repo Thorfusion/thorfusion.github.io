@@ -1,6 +1,7 @@
 ---
 layout: modpacks
 title: Terralization 1.12.2 Modpack
+description: Thorfusion Modpacks
 ---
 
 ## Terralization 1.12.2 Modpack

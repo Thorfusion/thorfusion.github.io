@@ -1,6 +1,7 @@
 ---
 layout: terra
 title: Old downloads for Terralization modpack
+description: Terralization Modpack
 ---
 ## Old downloads for Terralization modpack
 

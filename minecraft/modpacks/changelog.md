@@ -1,6 +1,7 @@
 ---
-layout: minecraft
-title: Minecraft
+layout: terra
+title: Terralization Changelog
+description: Terralization Modpack
 ---
 
 ## Changelog

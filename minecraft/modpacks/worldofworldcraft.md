@@ -1,6 +1,7 @@
 ---
 layout: modpacks
 title: World of Worldcraft Modpack
+description: Thorfusion Modpacks
 ---
 
 ## World of Worldcraft Modpack

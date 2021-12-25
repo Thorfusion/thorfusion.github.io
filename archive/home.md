@@ -1,6 +1,7 @@
 ---
 layout: oldprojects
 title: Archive
+description: Thorfusion Archive
 ---
 
 ## Old Projects

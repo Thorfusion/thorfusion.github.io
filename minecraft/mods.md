@@ -1,6 +1,7 @@
 ---
 layout: minecraft
 title: Mods
+description: Thorfusion Mods
 ---
 
 ## Mods
