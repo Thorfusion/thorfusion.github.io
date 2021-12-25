@@ -341,9 +341,9 @@ Last version to use the old versioning standard
 + Redwood trees spawn more rare, slimeisland does not spawn anymore, buffed antimatter bomb, did some tweaks and removed tainted biomes
 
 ### Removed
--Biomes o plenty, we got so much more perforance and nobody was using it
--Biomes o plenty addon for bibliocraft
--Removed xearos minimap
+- Biomes o plenty, we got so much more perforance and nobody was using it
+- Biomes o plenty addon for bibliocraft
+- Removed xearos minimap
 
 
 # Version 2.0.4
