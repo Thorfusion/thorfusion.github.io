@@ -18,7 +18,7 @@ description: Terralization Modpack
 Note: Only for clients, servers dont need to update
 
 
-#Version 2.6.2b
+# Version 2.6.2b
 ### Added
 + Forge Relocation
 + Forge Relocation FMP Plugin
@@ -218,7 +218,7 @@ We have now made texturepacks for our modpack found at our website or github and
 + Removed script for one tier more expensive mekanism windmills for singleplayer
 
 
-#Version 2.3.0a
+# Version 2.3.0a
 
 ### Added
 + Better Invalid Session
@@ -380,11 +380,11 @@ Decreased spawn chance for bluepower vulcanoes
 - Removed RadixCore wtf is this still in, it was a coremod for mca
 
 
-#Version 2.0.3b
+# Version 2.0.3b
 Hotfix for biome id conflict between thaumcraft and extraplanets
 
 
-#Version 2.0.3
+# Version 2.0.3
 A lot of config changes, gonna add everything later on but short version is
 
 ### Removed
