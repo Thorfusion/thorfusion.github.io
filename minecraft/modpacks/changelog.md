@@ -6,6 +6,35 @@ description: Terralization Modpack
 
 ## Changelog
 
+# Version 2.7.0a - Current under develoment
+### Added
++ Betterloadingscreen
++ NotEnoughEnergistics
+
+### Updated
++ HEE
++ EnderIO
++ Binniemods
++ AppliedEnergistics
++ Extracells
++ ae2stuff
++ Xaeros minimap
++ Xaeros worldmap
++ ElectricalAge
++ Galacticcraft
++ Railcraft
++ Opencomputers
++ Crafttweaker
++ Titanpower
++ Mekanism
++ IvToolkit
++ RecurrentComplex
++ NuclearControl
+
+### Removed
+- RedstoneArsenal
+
+### TerralizationModcore
 
 # Version 2.6.3a
 ### Updated
