@@ -6,7 +6,7 @@ description: Terralization Modpack
 
 ## Changelog
 
-# Version 2.7.0a - Current under develoment
+# Version 2.8.1a - Currently under develoment
 ### Added
 + Betterloadingscreen
 + NotEnoughEnergistics
@@ -25,10 +25,15 @@ description: Terralization Modpack
 + Railcraft
 + Opencomputers
 + Crafttweaker
-+ Titanpower
-+ Mekanism
+
+### TerralizationModcore
+
+# Version 2.8.0a - Currently under develoment
+### Updated
 + IvToolkit
 + RecurrentComplex
++ Titanpower
++ Mekanism
 + NuclearControl
 
 ### Removed
@@ -36,7 +41,7 @@ description: Terralization Modpack
 
 ### TerralizationModcore
 
-# Version 2.6.3a
+# Version 2.6.3a (should have been 2.7.0b)
 ### Updated
 
 + Craftprecence
@@ -47,7 +52,7 @@ description: Terralization Modpack
 Note: Only for clients, servers dont need to update
 
 
-# Version 2.6.2b
+# Version 2.6.2b (should have been 2.7.0a)
 ### Added
 + Forge Relocation
 + Forge Relocation FMP Plugin
