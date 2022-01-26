@@ -6,7 +6,7 @@ description: Terralization Modpack
 
 ## Changelog
 
-# Version 2.8.1a - Currently under develoment
+# Version 2.8.1a - Currently under development
 ### Added
 + Betterloadingscreen
 + NotEnoughEnergistics
@@ -28,7 +28,7 @@ description: Terralization Modpack
 
 ### TerralizationModcore
 
-# Version 2.8.0a - Currently under develoment
+# Version 2.8.0a - Currently under development
 ### Updated
 + IvToolkit
 + RecurrentComplex
