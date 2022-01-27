@@ -4,8 +4,6 @@ title: Mods
 description: Thorfusion Mods
 ---
 
-## Mods
-
 # [Titanpower](https://github.com/Thorfusion/Titanpower)
 A fancy mod made for Terralization modpack
 

@@ -4,8 +4,6 @@ title: Modpacks
 description: Thorfusion Modpacks
 ---
 
-## Modpacks
-
 # [Terralization](terralization/home)
 Highly optimized, great performance an modpack thats for everyone
 
