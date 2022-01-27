@@ -1,10 +1,8 @@
 ---
 layout: terra
-title: Terralization Changelog
+title: Changelog
 description: Terralization Modpack
 ---
-
-## Changelog
 
 # Version 2.8.1a - Currently under development
 ### Added

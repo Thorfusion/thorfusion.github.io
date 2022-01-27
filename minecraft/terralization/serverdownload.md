@@ -1,6 +1,6 @@
 ---
 layout: terra
-title: Terralization Modpack
+title: Server download
 description: Terralization Modpack
 ---
 
