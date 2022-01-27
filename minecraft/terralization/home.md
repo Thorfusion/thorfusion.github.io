@@ -8,7 +8,7 @@ description: Terralization Modpack
 
 ## Terralization is now 8 years old :O
 
-####Highly optimized, great performance an modpack thats for everyone
+### Highly optimized, great performance an modpack thats for everyone
 
 Terralization was created with a vision, which was not only was ambitious but make the pack be bigger than most others and do it mainstream as well. To even raise the goal of my vision even higher, I would do it with the newly released 1.7.10 at that time. We had a different name back then, but our vision still stands as firm as today; TECH, PLANES and MISSILES.
 
@@ -28,14 +28,14 @@ To make the pack even better, we made it open source so everyone can contribute 
 
 ## Links to other relevant sites:
 
-#### Discord: https://discord.gg/5NsUK4d
+Discord: https://discord.gg/5NsUK4d
 
-#### Technic Site: https://www.technicpack.net/modpack/terralization.654195
+Technic Site: https://www.technicpack.net/modpack/terralization.654195
 
-#### Official Website: https://thorfusion.com/
+Official Website: https://thorfusion.com/
 
-#### Github: https://github.com/maggi373/TerralizationModcore
+Github: https://github.com/maggi373/TerralizationModcore
 
-#### Youtube:
+Youtube:
 
-#### Twitch:
+Twitch:
