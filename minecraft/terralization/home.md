@@ -25,16 +25,17 @@ To make the pack even better, we made it open source so everyone can contribute 
 | GPU  | 4th gen intel integrated                    | GTX 750ti or newer         | N/A                        |
 | DISK | SSD                                         | SSD                        | SSD                        |
 
-
 ## Links to other relevant sites:
 
-Discord: https://discord.gg/5NsUK4d
+**[Legacy Download](old-downloads)**
 
-Technic Site: https://www.technicpack.net/modpack/terralization.654195
+**[Discord](https://discord.gg/5NsUK4d)**
 
-Official Website: https://thorfusion.com/
+**[Technic Site](https://www.technicpack.net/modpack/terralization.654195)**
 
-Github: https://github.com/maggi373/TerralizationModcore
+**[Official Website](https://thorfusion.com/)**
+
+**[Github](https://github.com/maggi373/TerralizationModcore)**
 
 Youtube:
 
