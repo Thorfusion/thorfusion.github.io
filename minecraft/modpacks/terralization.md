@@ -27,7 +27,14 @@ The ISSUES panel is also used for our servers
 
 #### TECHNIC, VOLTZ AND FLAN COMBINED!
 
+### Recommended hardware
 
+| Req  | Minimum                                     | Recommended                | Server                     |
+|------|---------------------------------------------|----------------------------|----------------------------|
+| CPU  | 2 cores but 4 cores is strongly recommended | 4-Core modern cpu, i5-2400 | 4-Core modern cpu, i5-2400 |
+| RAM  | 2.5 gb ram allocated                        | 6gb allocated              | 2.5gb min, 6gb 3-5 players |
+| GPU  | 4th gen intel integrated                    | GTX 750ti or newer         | N/A                        |
+| DISK | SSD                                         | SSD                        | SSD                        |
 
 ## Links to other relevant sites:
 

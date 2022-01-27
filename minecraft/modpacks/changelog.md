@@ -28,7 +28,7 @@ description: Terralization Modpack
 
 ### TerralizationModcore
 
-# Version 2.8.0a - Currently under development
+# Version 2.8.0a
 ### Updated
 + IvToolkit
 + RecurrentComplex
@@ -38,8 +38,6 @@ description: Terralization Modpack
 
 ### Removed
 - RedstoneArsenal
-
-### TerralizationModcore
 
 # Version 2.6.3a (should have been 2.7.0b)
 ### Updated
