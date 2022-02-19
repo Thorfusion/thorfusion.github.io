@@ -23,6 +23,7 @@ description: Terralization Modpack
 + Railcraft
 + Opencomputers
 + Crafttweaker
++ Foamfix
 
 ### TerralizationModcore
 
