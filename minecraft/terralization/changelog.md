@@ -24,6 +24,7 @@ description: Terralization Modpack
 + Opencomputers
 + Crafttweaker
 + Foamfix
++ infernal mobs
 
 ### TerralizationModcore
 
