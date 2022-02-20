@@ -4,7 +4,7 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.8.1a - Currently under development
+# Version 2.9.0a - Currently under development
 ### Added
 + Betterloadingscreen
 + NotEnoughEnergistics
