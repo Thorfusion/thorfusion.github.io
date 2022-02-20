@@ -27,6 +27,11 @@ description: Terralization Modpack
 + Crafttweaker
 + Foamfix
 + Infernal mobs
++ IvToolkit
++ RecurrentComplex
++ Titanpower
++ Mekanism
++ NuclearControl
 
 ### TerralizationModcore
 
