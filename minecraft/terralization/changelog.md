@@ -8,6 +8,8 @@ description: Terralization Modpack
 ### Added
 + Betterloadingscreen
 + NotEnoughEnergistics
++ Opis
++ Mobiuscore
 
 ### Updated
 + HEE
@@ -24,9 +26,12 @@ description: Terralization Modpack
 + Opencomputers
 + Crafttweaker
 + Foamfix
-+ infernal mobs
++ Infernal mobs
 
 ### TerralizationModcore
+
+### Removed
+- Dynamic Lights due to an severe stutter bug on certain systems.
 
 # Version 2.8.0a
 ### Updated
