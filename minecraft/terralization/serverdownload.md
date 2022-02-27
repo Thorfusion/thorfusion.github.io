@@ -6,7 +6,6 @@ description: Terralization Modpack
 
 ## Server Download
 
-### Info
 Terralization runs on a custom(forked) version of Thermos that is a fork of kcauldron.
 
 #### Notes:
@@ -30,8 +29,8 @@ Terralization runs on a custom(forked) version of Thermos that is a fork of kcau
 | DISK | SSD                        | SSD                        | SSD                                |
 
 *Note that the proper way to run it the pack will utilize alot of ram, last time i checked was a few years ago but it sucked over 32gb ram, however it should be below 32gb now and the performance with several players makes this an extreme performant way to run the server.
-### Cloning
 
+### Cloning
 For cloning; Note: you will get it in an folder named TerralizationServer if not specified
 
 ```bash
@@ -58,7 +57,6 @@ git pull origin Server
 ```
 
 ### Manual Download
-
 Go to Terralization Server Github's **[releases](https://github.com/Thorfusion/TerralizationServer/releases)** page and download the version you want.
 
 For versions not shown is located at **[Legacy Download](old-downloads)**
