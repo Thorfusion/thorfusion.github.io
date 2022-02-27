@@ -5,17 +5,21 @@ description: Terralization Modpack
 ---
 
 ## Server Download
+
 ### Info
 Terralization runs on a custom(forked) version of Thermos that is a fork of kcauldron.
+
 #### Notes:
 + Thermos requires some specific arguments to work optimally.
 + The custom version of Thermos is also patched for log4j.
 + Current version number is always found in the custommainmenu config file
 + The ISSUES panel is also used for our servers
+
 #### Links:
 + [Terralization Server Github](https://github.com/Thorfusion/TerralizationServer)
 + [Thermos Webpage](https://thorfusion.com/Thermos/)
 + [Thermos Github](https://github.com/Thorfusion/Thermos)
+
 ### Requirements
 
 | Req  | Minimum                    | Recommended                | Proper way to run the server*      |
@@ -27,6 +31,7 @@ Terralization runs on a custom(forked) version of Thermos that is a fork of kcau
 
 *Note that the proper way to run it the pack will utilize alot of ram, last time i checked was a few years ago but it sucked over 32gb ram, however it should be below 32gb now and the performance with several players makes this an extreme performant way to run the server.
 ### Cloning
+
 For cloning; Note: you will get it in an folder named TerralizationServer if not specified
 
 ```bash
@@ -53,6 +58,7 @@ git pull origin Server
 ```
 
 ### Manual Download
+
 Go to Terralization Server Github's **[releases](https://github.com/Thorfusion/TerralizationServer/releases)** page and download the version you want.
 
 For versions not shown is located at **[Legacy Download](old-downloads)**
