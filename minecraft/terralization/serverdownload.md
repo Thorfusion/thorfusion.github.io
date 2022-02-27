@@ -16,9 +16,9 @@ Terralization runs on a custom(forked) version of Thermos that is a fork of kcau
 + The ISSUES panel is also used for our servers
 
 #### Links:
-+ [Terralization Server Github](https://github.com/Thorfusion/TerralizationServer)
-+ [Thermos Webpage](https://thorfusion.com/Thermos/)
-+ [Thermos Github](https://github.com/Thorfusion/Thermos)
++ **[Terralization Server Github](https://github.com/Thorfusion/TerralizationServer)**
++ **[Thermos Webpage](https://thorfusion.com/Thermos/)**
++ **[Thermos Github](https://github.com/Thorfusion/Thermos)**
 
 ### Requirements
 
