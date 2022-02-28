@@ -4,12 +4,7 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.8.1a - Currently under development
-### Added
-+ NotEnoughEnergistics
-+ Opis
-+ Mobiuscore
-
+# Version 2.8.2a - Currently under development
 ### Updated
 + HEE
 + ae2
@@ -32,6 +27,14 @@ description: Terralization Modpack
 + Titanpower
 + Mekanism
 + NuclearControl
+
+### TerralizationModcore
+
+# Version 2.8.1a - Currently under development
+### Added
++ NotEnoughEnergistics
++ Opis
++ Mobiuscore
 
 ### TerralizationModcore
 
