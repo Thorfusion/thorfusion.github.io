@@ -30,12 +30,13 @@ description: Terralization Modpack
 
 ### TerralizationModcore
 
-# Version 2.8.1a - Currently under development
+# Version 2.8.1a
 ### Added
 + NotEnoughEnergistics
 + Opis
 
 ### TerralizationModcore
+Added config files for new mods
 
 ### Removed
 - Dynamic Lights due to an severe stutter bug on certain systems.
