@@ -34,7 +34,6 @@ description: Terralization Modpack
 ### Added
 + NotEnoughEnergistics
 + Opis
-+ Mobiuscore
 
 ### TerralizationModcore
 
