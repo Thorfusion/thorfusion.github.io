@@ -27,6 +27,8 @@ description: Terralization Modpack
 + Titanpower
 + Mekanism
 + NuclearControl
++ Buildcraft
++ Buildcraft compat
 
 ### TerralizationModcore
 
