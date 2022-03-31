@@ -38,6 +38,7 @@ description: Terralization Modpack
 + Xaeros minimap
 + Xaeros worldmap
 + Netherlicious
++ Campfire backport
 
 ### TerralizationModcore
 
