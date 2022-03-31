@@ -43,6 +43,10 @@ description: Terralization Modpack
 + Netherlicious
 + Campfire backport
 
+### Downgraded for curse compability
+- Industrialcraft
+- Ender storage
+
 ### TerralizationModcore
 
 # Version 2.8.1a
