@@ -4,7 +4,8 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.8.2a - Currently under development
+# Version 2.8.3a - Currently under development
+
 ### Updated GTNH Fork
 + HEE
 + ae2
@@ -18,6 +19,8 @@ description: Terralization Modpack
 + Opencomputers
 + Crafttweaker
 + Infernal mobs
+
+# Version 2.8.2a - Currently under development
 
 ### Updated Thorfusion Fork
 + IvToolkit
