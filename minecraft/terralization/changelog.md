@@ -37,6 +37,7 @@ description: Terralization Modpack
 + ElectricalAge
 + Xaeros minimap
 + Xaeros worldmap
++ Netherlicious
 
 ### TerralizationModcore
 
