@@ -5,7 +5,7 @@ description: Terralization Modpack
 ---
 
 # Version 2.8.2a - Currently under development
-### Updated
+### Updated GTNH Fork
 + HEE
 + ae2
 + EnderIO
@@ -13,22 +13,30 @@ description: Terralization Modpack
 + AppliedEnergistics
 + Extracells
 + ae2stuff
-+ Xaeros minimap
-+ Xaeros worldmap
-+ ElectricalAge
 + Galacticcraft
 + Railcraft
 + Opencomputers
 + Crafttweaker
-+ Foamfix
 + Infernal mobs
+
+### Updated Thorfusion Fork
 + IvToolkit
 + RecurrentComplex
 + Titanpower
 + Mekanism
 + NuclearControl
+
+### Updated
 + Buildcraft
 + Buildcraft compat
++ AE2 Stuff
++ Crafttweaker
++ Extra planets
++ Lumy skin patch
++ Foamfix
++ ElectricalAge
++ Xaeros minimap
++ Xaeros worldmap
 
 ### TerralizationModcore
 
