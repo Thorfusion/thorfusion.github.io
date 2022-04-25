@@ -20,6 +20,11 @@ description: Terralization Modpack
 + Crafttweaker
 + Infernal mobs
 
+### Downgraded for curse compability
+- Industrialcraft
+- Ender storage
+
+
 # Version 2.8.2a - Currently under development
 
 ### Updated Thorfusion Fork
@@ -42,10 +47,6 @@ description: Terralization Modpack
 + Xaeros worldmap
 + Netherlicious
 + Campfire backport
-
-### Downgraded for curse compability
-- Industrialcraft
-- Ender storage
 
 ### TerralizationModcore
 
