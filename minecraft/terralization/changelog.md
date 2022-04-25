@@ -49,6 +49,10 @@ description: Terralization Modpack
 + Campfire backport
 
 ### TerralizationModcore
++ Galacticcraft now uses rf when measuring
++ Hoved oxygentanks gui to the left side
++ Made galacticcraft harder
++ Adjusted galacticcraft boss health
 
 # Version 2.8.1a
 ### Added
