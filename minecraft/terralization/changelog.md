@@ -26,6 +26,9 @@ description: Terralization Modpack
 
 # Version 2.8.2a - Currently under development
 
+### Switched to Thorfusion Fork
++ Immersive Engineering
+
 ### Updated Thorfusion Fork
 + IvToolkit
 + RecurrentComplex
