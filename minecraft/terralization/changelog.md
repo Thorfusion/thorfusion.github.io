@@ -37,18 +37,17 @@ description: Terralization Modpack
 + NuclearControl
 
 ### Updated
-+ Buildcraft
-+ Buildcraft compat
-+ AE2 Stuff
-+ Crafttweaker
-+ Extra planets
-+ Lumy skin patch
-+ Foamfix
-+ ElectricalAge
-+ Xaeros minimap
-+ Xaeros worldmap
-+ Netherlicious
-+ Campfire backport
++ Buildcraft to 7.1.24
++ Buildcraft compat to 7.1.8
++ Crafttweaker to 3.1.0
++ Extra planets to 2.1.4
++ Lumy skin patch to 1.0.10
++ Foamfix to beta3
++ ElectricalAge to 1.18.3
++ Xaeros minimap to 21.10.22
++ Xaeros worldmap to 1.14.1.16
++ Netherlicious to 3.2.0
++ Campfire backport to 1.9.2
 
 ### TerralizationModcore
 + Galacticcraft:
