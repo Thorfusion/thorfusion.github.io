@@ -48,10 +48,25 @@ description: Terralization Modpack
 + Campfire backport
 
 ### TerralizationModcore
-+ Galacticcraft now uses rf when measuring
-+ Hoved oxygentanks gui to the left side
-+ Made galacticcraft harder
-+ Adjusted galacticcraft boss health
++ Galacticcraft:
+  + Galacticcraft now uses rf when measuring
+  + Moved oxygentanks gui to the bottom right side
+  + Made galacticcraft harder
+  + Adjusted galacticcraft bosses health
++ Updated defencetechrecipes
+  + Changed recipes for:
+    + Nuclear Explosives
+    + Nuclear Missile
+    + Nuclear Cluster Missile
+    + Antimatterbomb (also removed the recipe using flames)
++ Added chunkloaderrecipes (servers only)
+  + Removed recipes for:
+    + All chunkloaders 
++ Main Menu:
+  + removed official server buttons
+  + removed twitch and youtube buttons
+  + changed main title image
+  + updated changelog link
 
 # Version 2.8.1a
 ### Added
