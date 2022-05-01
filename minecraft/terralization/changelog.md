@@ -6,6 +6,10 @@ description: Terralization Modpack
 
 # Version 2.8.3a - Currently under development
 
+### Updated Thorfusion Fork
++ IvToolkit
++ RecurrentComplex
+
 ### Updated GTNH Fork
 + HEE
 + ae2
@@ -30,8 +34,6 @@ description: Terralization Modpack
 + Immersive Engineering
 
 ### Updated Thorfusion Fork
-+ IvToolkit
-+ RecurrentComplex
 + Titanpower
 + Mekanism
 + NuclearControl
@@ -55,6 +57,7 @@ description: Terralization Modpack
   + Moved oxygentanks gui to the bottom right side
   + Made galacticcraft harder
   + Adjusted galacticcraft bosses health
+  + Removed edgeseal check on servers
 + Updated defencetechrecipes
   + Changed recipes for:
     + Nuclear Explosives
