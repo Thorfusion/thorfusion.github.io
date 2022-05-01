@@ -28,6 +28,8 @@ description: Terralization Modpack
 
 ### Added
 + TerralizationCompat
+  + Adds oredict for dustquartz for enriching to quartz
+  + Adds oredict for gemdiamond for enriching to compresseddiamond
 
 ### Switched to Thorfusion Fork
 + Immersive Engineering
@@ -70,6 +72,8 @@ description: Terralization Modpack
 + Added chunkloaderrecipes (servers only)
   + Removed recipes for:
     + All chunkloaders 
++ TerralizationCompat.zs
+  + Added eln diamond to oredict
 + Main Menu:
   + removed current official server buttons
   + made a new temporary server button
