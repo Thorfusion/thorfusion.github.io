@@ -30,6 +30,9 @@ description: Terralization Modpack
 
 # Version 2.8.2a - Currently under development
 
+###
++ Added TerralizationCompat
+
 ### Switched to Thorfusion Fork
 + Immersive Engineering
 
