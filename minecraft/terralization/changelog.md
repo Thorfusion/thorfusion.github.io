@@ -6,10 +6,6 @@ description: Terralization Modpack
 
 # Version 2.8.3a - Currently under development
 
-### Updated Thorfusion Fork
-+ IvToolkit
-+ RecurrentComplex
-
 ### Updated GTNH Fork
 + HEE
 + ae2
@@ -41,6 +37,10 @@ description: Terralization Modpack
 + Mekanism
 + NuclearControl
 
+### Recompiled Thorfusion Fork
++ IvToolkit
++ RecurrentComplex
+
 ### Updated
 + Buildcraft to 7.1.24
 + Buildcraft compat to 7.1.8
@@ -71,10 +71,12 @@ description: Terralization Modpack
   + Removed recipes for:
     + All chunkloaders 
 + Main Menu:
-  + removed official server buttons
+  + removed current official server buttons
+  + made a new temporary server button
   + removed twitch and youtube buttons
   + changed main title image
   + updated changelog link
+  + deleted server.dat
 
 # Version 2.8.1a
 ### Added
