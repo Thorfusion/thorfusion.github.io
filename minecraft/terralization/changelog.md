@@ -24,7 +24,7 @@ description: Terralization Modpack
 - Industrialcraft
 - Ender storage
 
-# Version 2.8.2a - Currently under development
+# Version 2.8.2a
 
 ### Added
 + TerralizationCompat
