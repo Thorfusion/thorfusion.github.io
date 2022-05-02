@@ -57,6 +57,9 @@ description: Terralization Modpack
 + Campfire backport to 1.9.2
 
 ### TerralizationModcore
++ Fixed an short freeze when starting the game
++ Disabled buildcraft update checker
++ Removed the books that you get (you can still make em)
 + Galacticcraft:
   + Galacticcraft now uses rf when measuring
   + Moved oxygentanks gui to the bottom right side
