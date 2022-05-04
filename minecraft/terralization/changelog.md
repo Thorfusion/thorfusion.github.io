@@ -4,7 +4,7 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.8.3a - Currently under development
+# Version 2.8.4a - Currently under development
 
 ### Updated GTNH Fork
 + HEE
@@ -23,6 +23,27 @@ description: Terralization Modpack
 ### Downgraded for curse compability
 - Industrialcraft
 - Ender storage
+
+# Version 2.8.4a - Currently under development
+
+### Added
++ UniDict
+
+### TerralizationCoreConfig
++ fixed titanpower oregen
++ antimatter explosive is now more expensive to make
++ COFH oregen
+  + forestry oregen is now done by cofh
+  + vanilla oregen is now done by cofh
+  + galacticraft overworld oregen is now done by cofh
+  + harvestcraft oregen is now done by cofh
+  + chisel oregen is now done by cofh
+  + nuclearcraft oregen is now done by cofh
+  + railcraft oregen is now done by cofh
+  + most ores have now different oregen
+    + Like copper spawning around level x
+    + or abyssalstone spawning around level 10
+    + check github for accurate details
 
 # Version 2.8.2a
 
