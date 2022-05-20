@@ -4,7 +4,7 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.8.4a - Currently under development
+# Version 2.9.1a - Currently under development
 
 ### Updated GTNH Fork
 + HEE
@@ -24,10 +24,13 @@ description: Terralization Modpack
 - Industrialcraft
 - Ender storage
 
-# Version 2.8.3a - Currently under development
+# Version 2.9.0a - Currently under development
 
 ### Added
 + UniDict
+
+### Removed
+- ImmersiveEngineering
 
 ### TerralizationCoreConfig
 + fixed titanpower oregen
