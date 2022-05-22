@@ -31,6 +31,11 @@ description: Terralization Modpack
 
 ### Removed
 - ImmersiveEngineering
+- Immersive Integration
+
+### Swithed to original version:
++ Nuclear Control 2
+  + This is because the original version got an update that fixes the cape issues
 
 ### TerralizationCoreConfig
 + fixed titanpower oregen
