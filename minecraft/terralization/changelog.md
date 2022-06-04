@@ -32,6 +32,7 @@ description: Terralization Modpack
 ### Removed
 - Immersive Engineering
 - Immersive Integration
+
 #### Note that these mods also got removed in all other modpack versions
 
 ### Swithed to original version:
