@@ -30,12 +30,13 @@ description: Terralization Modpack
 + UniDict
 
 ### Removed
-- ImmersiveEngineering
+- Immersive Engineering
 - Immersive Integration
+#### Note that these mods also got removed in all other modpack versions
 
 ### Swithed to original version:
 + Nuclear Control 2
-  + This is because the original version got an update that fixes the cape issues
+  + This is because the original version got an update that fixes the cape issues from me :)
 
 ### TerralizationCoreConfig
 + fixed titanpower oregen
