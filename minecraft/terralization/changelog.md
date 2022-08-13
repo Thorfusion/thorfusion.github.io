@@ -4,36 +4,20 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.9.1a - Currently under development
+# Version 2.9.1a Oregen overhaul part 2 - Currently under development
 
-### Updated GTNH Fork
-+ HEE
-+ ae2
-+ EnderIO
-+ Binniemods
-+ AppliedEnergistics
-+ Extracells
-+ ae2stuff
-+ Galacticcraft
-+ Railcraft
-+ Opencomputers
-+ Crafttweaker
-+ Infernal mobs
 
-### Downgraded for curse compability
-- Industrialcraft
-- Ender storage
-
-# Version 2.9.0a - Currently under development
+# Version 2.9.0a Worldgen part 1 - Currently under development
 
 ### Added
 + UniDict
++ Default world generator
++ Realistic Terrain Generator
 
 ### Removed
-- Immersive Engineering
-- Immersive Integration
-
-#### Note that these mods also got removed in all other modpack versions
+- Immersive Engineering (removed from all terralization previous versions aswell)
+- Immersive Integration (removed from all terralization previous versions aswell)
+- Pam's Clay Spawn (now handled by custom cofh oregen)
 
 ### Swithed to original version:
 + Nuclear Control 2
