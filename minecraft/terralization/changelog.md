@@ -4,15 +4,19 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.9.1a Oregen overhaul part 2 - Currently under development
+# Version 2.9.0b Oregen Overhaul Part 2
+## Currently under development
 
 
-# Version 2.9.0a Worldgen part 1 - Currently under development
+# Version 2.9.0a Worldgen Part 1
+## Currently under development
 
 ### Added
 + UniDict
-+ Default world generator
-+ Realistic Terrain Generator
++ Default World Generator
++ Realistic Terrain Generation
++ BiomeTweaker
++ Alternate Terrain Generation
 
 ### Removed
 - Immersive Engineering (removed from all terralization previous versions aswell)
