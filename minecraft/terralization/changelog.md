@@ -6,7 +6,9 @@ description: Terralization Modpack
 
 # Version 2.9.0b Oregen Overhaul Part 2
 ## Currently under development
-
++ CoFH oregen now handles:
+  + Metalurgy
+  + AM2
 
 # Version 2.9.0a Worldgen Part 1
 ## Currently under development
@@ -19,8 +21,8 @@ description: Terralization Modpack
 + Alternate Terrain Generation
 
 ### Removed
-- Immersive Engineering (removed from all terralization previous versions aswell)
-- Immersive Integration (removed from all terralization previous versions aswell)
+- Immersive Engineering (removed from all previous terralization versions aswell)
+- Immersive Integration (removed from all previous terralization versions aswell)
 - Pam's Clay Spawn (now handled by custom cofh oregen)
 
 ### Swithed to original version:
@@ -37,17 +39,22 @@ description: Terralization Modpack
 + disabled mekanisms salt ore generation
 + changed default world generator
 + disabled dryad spawning
-+ COFH oregen
-  + forestry oregen is now done by cofh
-  + vanilla oregen is now done by cofh
-  + galacticraft overworld oregen is now done by cofh
-  + harvestcraft oregen is now done by cofh
-  + chisel oregen is now done by cofh
-  + nuclearcraft oregen is now done by cofh
-  + railcraft oregen is now done by cofh
-  + mekanism  oregen is now done by cofh
-  + electrical age  oregen is now done by cofh
-  + applied energistic certus oregen is now done by cofh
++ deepiron now only spawns in the deep
++ tons of changes on the new mods added aswell
++ COFH oregen now handles ores from
+  + forestry
+  + vanilla
+  + galacticraft
+  + harvestcraft
+  + chisel
+  + nuclearcraft
+  + railcraft
+  + mekanism
+  + electrical age
+  + applied energistic
+  + qcraft
+  + projectred
+  + magical crops
   + most ores have now different oregen
     + Like copper spawning around level x
     + or abyssalstone spawning around level 10
