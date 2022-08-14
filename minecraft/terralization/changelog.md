@@ -17,8 +17,6 @@ description: Terralization Modpack
 + UniDict
 + Default World Generator
 + Realistic Terrain Generation
-+ BiomeTweaker
-+ Alternate Terrain Generation
 
 ### Removed
 - Immersive Engineering (removed from all previous terralization versions aswell)
@@ -40,6 +38,7 @@ description: Terralization Modpack
 + changed default world generator
 + disabled dryad spawning
 + deepiron now only spawns in the deep
++ titled mob death nolonger shows in chat
 + tons of changes on the new mods added aswell
 + COFH oregen now handles ores from
   + forestry
