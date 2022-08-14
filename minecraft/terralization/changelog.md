@@ -30,6 +30,13 @@ description: Terralization Modpack
 ### TerralizationCoreConfig
 + fixed titanpower oregen
 + antimatter explosive is now more expensive to make
++ going to bed nolonger stops the rain
++ applied energistics now uses rf
++ added tungsten to dictionary
++ disabled some update notifications and other connecting to web stuff
++ disabled mekanisms salt ore generation
++ changed default world generator
++ disabled dryad spawning
 + COFH oregen
   + forestry oregen is now done by cofh
   + vanilla oregen is now done by cofh
@@ -38,6 +45,9 @@ description: Terralization Modpack
   + chisel oregen is now done by cofh
   + nuclearcraft oregen is now done by cofh
   + railcraft oregen is now done by cofh
+  + mekanism  oregen is now done by cofh
+  + electrical age  oregen is now done by cofh
+  + applied energistic certus oregen is now done by cofh
   + most ores have now different oregen
     + Like copper spawning around level x
     + or abyssalstone spawning around level 10
