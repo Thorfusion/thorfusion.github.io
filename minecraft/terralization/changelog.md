@@ -40,6 +40,7 @@ description: Terralization Modpack
 + disabled mekanisms salt ore generation
 + changed default world generator
 + disabled dryad spawning
++ added projectred silicon to oredict
 + deepiron now only spawns in the deep
 + titled mob death nolonger shows in chat
 + tons of changes on the new mods added aswell
