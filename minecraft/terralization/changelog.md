@@ -23,6 +23,9 @@ description: Terralization Modpack
 - Immersive Integration (removed from all previous terralization versions aswell)
 - Pam's Clay Spawn (now handled by custom cofh oregen)
 
+### Updated
++ Mekanism Community Edition
+
 ### Downgraded
 - Netherlicious to 3.1.0 due to maggi373/TerralizationModcore#48
 
