@@ -25,6 +25,9 @@ description: Terralization Modpack
 
 ### Updated
 + Mekanism Community Edition
++ Xaero's Minimap
++ Xaero's Worldmap
++ NEI GTNH
 
 ### Downgraded
 - Netherlicious to 3.1.0 due to maggi373/TerralizationModcore#48
@@ -32,6 +35,15 @@ description: Terralization Modpack
 ### Swithed to original version:
 + Nuclear Control 2
   + This is because the original version got an update that fixes the cape issues from me :)
+
+### Switched to gtnewhorizion fork
++ Extra Cells 2 from kmecpp fork
++ Applied Energistics
++ NotEnoughEnergistics
++ EnderIO
++ TinkersConstruct
++ Railcraft
+NOTE: I will change more to gtnh forks but this is enough for now
 
 ### TerralizationCoreConfig
 + fixed titanpower oregen
