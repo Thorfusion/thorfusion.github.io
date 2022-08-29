@@ -62,6 +62,7 @@ NOTE: I will change more to gtnh forks but this is enough for now
 + deepiron now only spawns in the deep
 + titled mob death nolonger shows in chat
 + tons of changes on the new mods added aswell
++ defaultkeys for firstinstall
 + COFH oregen now handles ores from
   + forestry
   + vanilla
