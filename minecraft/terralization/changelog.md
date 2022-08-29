@@ -43,6 +43,9 @@ description: Terralization Modpack
 + EnderIO
 + TinkersConstruct
 + Railcraft
++ CodeChickenCore
++ CodeChickenLib
+
 NOTE: I will change more to gtnh forks but this is enough for now
 
 ### TerralizationCoreConfig
