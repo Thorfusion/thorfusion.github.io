@@ -36,6 +36,9 @@ description: Terralization Modpack
 + Nuclear Control 2
   + This is because the original version got an update that fixes the cape issues from me :)
 
+### Switched to Thorfusion fork
++ InvTweaks (fixes bugs)
+
 ### Switched to gtnewhorizion fork
 + Extra Cells 2 from kmecpp fork
 + Applied Energistics
