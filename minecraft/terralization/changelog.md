@@ -66,6 +66,7 @@ NOTE: I will change more to gtnh forks but this is enough for now
 + titled mob death nolonger shows in chat
 + tons of changes on the new mods added aswell
 + defaultkeys for firstinstall
++ disabled invtweaks loaded notification
 + COFH oregen now handles ores from
   + forestry
   + vanilla
