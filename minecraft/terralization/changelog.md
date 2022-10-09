@@ -33,6 +33,7 @@ description: Terralization Modpack
 + Xaero's Minimap
 + Xaero's Worldmap
 + NEI GTNH
++ OpenComputers
 
 ### Downgraded
 - Netherlicious to 3.1.0 due to maggi373/TerralizationModcore#48
