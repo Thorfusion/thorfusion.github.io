@@ -30,6 +30,7 @@ description: Terralization Modpack
 - Immersive Engineering (removed from all previous terralization versions aswell)
 - Immersive Integration (removed from all previous terralization versions aswell)
 - Pam's Clay Spawn (now handled by custom cofh oregen)
+- TerralizationCompat (it was merged into mekanism community edition)
 
 ### Updated
 + Mekanism Community Edition
