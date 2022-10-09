@@ -10,11 +10,7 @@ description: Terralization Modpack
   + Metalurgy
   + AM2
 
-
-
-
-# Version 2.9.0a Worldgen Part 1
-## Currently under development
+# Version 2.9.0a Worldgen update
 
 ### Added
 + UniDict
