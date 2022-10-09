@@ -10,6 +10,9 @@ description: Terralization Modpack
   + Metalurgy
   + AM2
 
+
+
+
 # Version 2.9.0a Worldgen Part 1
 ## Currently under development
 
@@ -17,6 +20,11 @@ description: Terralization Modpack
 + UniDict
 + Default World Generator
 + Realistic Terrain Generation
++ BugTorch
++ ArchaicFix
++ GasStation
++ Neodymium
++ FalsePatternLib
 
 ### Removed
 - Immersive Engineering (removed from all previous terralization versions aswell)
@@ -31,6 +39,9 @@ description: Terralization Modpack
 
 ### Downgraded
 - Netherlicious to 3.1.0 due to maggi373/TerralizationModcore#48
+
+### Switched to DrParadox7 fork
++ ArsMagica2
 
 ### Swithed to original version:
 + Nuclear Control 2
