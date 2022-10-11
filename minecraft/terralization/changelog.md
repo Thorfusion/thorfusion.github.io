@@ -6,6 +6,22 @@ description: Terralization Modpack
 
 # Version 2.9.0b Oregen Overhaul Part 2
 ## Currently under development
+
+### TerralizationCoreConfig
++ disabled falsepatternlib update checker
++ enabled better regional difficulty
++ removed some spamm in the log files
++ entity's will now only be ticked within 64 blocks
++ less quarried stone will generate in the soil
++ added copper poor ores to the copper gen 30%
++ added tin poor ores to the tin gen 20%
++ added lead poor ores to the lead gen 30%
++ added gold poor ores to the gold gen 50%
++ large ironveins now spawns in mountains alongside normal iron generation for mountains
++ reduced ironveins in normal heights
++ reduced coal generation.
+
+### Todo:
 + CoFH oregen now handles:
   + Metalurgy
   + AM2
