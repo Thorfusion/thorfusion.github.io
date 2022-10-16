@@ -16,6 +16,12 @@ description: Terralization Modpack
   + Metalurgy
   + AM2
 
+# Version 2.9.0c
+
+### TerralizationCoreConfig
++ disabled falsepatternlib automatic library downloader
++ disabled the range limit for ticking entities
+
 # Version 2.9.0b
 
 ### TerralizationCoreConfig
