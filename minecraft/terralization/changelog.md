@@ -4,8 +4,19 @@ title: Changelog
 description: Terralization Modpack
 ---
 
-# Version 2.9.0b Oregen Overhaul Part 2
+# Version 2.9.1a
 ## Currently under development
+
+## Todo:
+### Updated
++ bugtorch
+
+### TerralizationCoreConfig
++ CoFH oregen now handles:
+  + Metalurgy
+  + AM2
+
+# Version 2.9.0b
 
 ### TerralizationCoreConfig
 + disabled falsepatternlib update checker
@@ -20,11 +31,7 @@ description: Terralization Modpack
 + large ironveins now spawns in mountains alongside normal iron generation for mountains
 + reduced ironveins in normal heights
 + reduced coal generation.
-
-### Todo:
-+ CoFH oregen now handles:
-  + Metalurgy
-  + AM2
++ increased certus quartz oregen
 
 # Version 2.9.0a Worldgen update
 
