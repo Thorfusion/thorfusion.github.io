@@ -10,6 +10,9 @@ description: Terralization Modpack
 ## Todo:
 ### Updated
 + bugtorch
++ nei gtnh
++ xaero's minimap
++ xaero's worldmap
 
 ### TerralizationCoreConfig
 + CoFH oregen now handles:
