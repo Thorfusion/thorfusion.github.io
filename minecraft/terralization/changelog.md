@@ -11,7 +11,6 @@ description: Terralization Modpack
   + AM2
 
 # Version 2.9.1a
-## Currently under development
 
 ### Added
 + CoreTweaks
