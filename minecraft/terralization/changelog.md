@@ -10,6 +10,11 @@ description: Terralization Modpack
   + Metalurgy
   + AM2
 
+# Version 2.9.2a
+
+### Added
++ Immersive Cavegen
+
 # Version 2.9.1a
 
 ### Added
