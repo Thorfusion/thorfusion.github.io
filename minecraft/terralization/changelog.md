@@ -12,8 +12,30 @@ description: Terralization Modpack
 
 # Version 2.9.2a
 
+## Updated
++ Lumyskinpatch
++ ArchaicFix
++ CoreTweaks
+
 ### Added
 + Immersive Cavegen
++ Squidless (got it working again)
++ FalseTweaks
++ TickDynamic
++ Mixingasm
++ AI-Improvements
++ Biome Decoration Fix
++ FPS Reducer
++ Leaf Culling
++ Better Foliage
++ HelpFixer
++ Healer
++ Netty-Patcher
++ Smooth Font
++ VillagerMetaFix
+
+
+
 
 # Version 2.9.1a
 
