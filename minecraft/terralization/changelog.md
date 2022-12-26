@@ -10,32 +10,64 @@ description: Terralization Modpack
   + Metalurgy
   + AM2
 
-# Version 2.9.2a
+### Update
++ NEI GTNH
+
+### Add
++ AnimFix or Falsetweaks
++ Leaf Culling
++ HelpFixer
+
+# Version 2.10.1a
 
 ## Updated
 + Lumyskinpatch
 + ArchaicFix
 + CoreTweaks
++ FoamFIX
++ Mekanism Community Edition
++ Buildcraft
++ Xaeros Minimap
++ Xaeros worldmap
++ Neodymium
++ Gasstation
++ ArchaicFix
 
 ### Added
 + Immersive Cavegen
 + Squidless (got it working again)
-+ FalseTweaks
-+ TickDynamic
-+ Mixingasm
++ Flying Cullers
 + AI-Improvements
 + Biome Decoration Fix
 + FPS Reducer
-+ Leaf Culling
 + Better Foliage
-+ HelpFixer
-+ Healer
 + Netty-Patcher
 + Smooth Font
-+ VillagerMetaFix
++ Pathfinder
++ Screen Sizer
++ Industrialcraft 2 classic
 
+### Removed
+- Industrialcraft 2
 
-
+### TerralizationCoreConfig
++ Updated the config files
++ disabled fixTEUnloadLag
++ Mekanism
+  + increased digital miner max radius
+  + reduced mekanism's compat tier for ic2 down to 2 (mid tier)
++ disabled an updater lib
++ disabled fastcraft font render because of smooth font
++ Industrialcraft 2 classic
+  + disabled ic2c ae2 module
+  + disabled ic2c ore gen
++ Immersive cavegen
+  + disabled rtg cavegen because of immersive cavegen
+  + added lush caves
+  + increased megacave gen
+  + added netherfeatures in cavegen
+  + disabled Separate Flooded Y Level for compat
+  + increased cavegen
 
 # Version 2.9.1a
 
