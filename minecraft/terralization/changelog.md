@@ -18,7 +18,7 @@ description: Terralization Modpack
 + Leaf Culling
 + HelpFixer
 
-# Version 2.10.1a
+# Version 2.9.2a
 
 ## Updated
 + Lumyskinpatch
@@ -45,22 +45,16 @@ description: Terralization Modpack
 + Smooth Font
 + Pathfinder
 + Screen Sizer
-+ Industrialcraft 2 classic
++ Uncomplication
 
-### Removed
-- Industrialcraft 2
 
 ### TerralizationCoreConfig
 + Updated the config files
 + disabled fixTEUnloadLag
 + Mekanism
   + increased digital miner max radius
-  + reduced mekanism's compat tier for ic2 down to 2 (mid tier)
 + disabled an updater lib
 + disabled fastcraft font render because of smooth font
-+ Industrialcraft 2 classic
-  + disabled ic2c ae2 module
-  + disabled ic2c ore gen
 + Immersive cavegen
   + disabled rtg cavegen because of immersive cavegen
   + added lush caves
