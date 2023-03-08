@@ -18,6 +18,28 @@ description: Terralization Modpack
 + Leaf Culling
 + HelpFixer
 
+## Added LE Edition of
++ Magicbees
+
+# Version 2.9.3a
+
+## Updated
++ Neodynmium
++ CoreTweaks
++ Archaicfix
++ Titanpower
+
+## Updated/Updated to LE
++ TConstruct
++ Botania
++ AM2
++ Minechem
++ Bloodmagic
+
+### TerralizationCoreConfig
++ CoFH oregen now handles:
+  + AM2
+
 # Version 2.9.2a
 
 ## Updated
@@ -31,7 +53,6 @@ description: Terralization Modpack
 + Xaeros worldmap
 + Neodymium
 + Gasstation
-+ ArchaicFix
 
 ### Added
 + Immersive Cavegen
@@ -46,6 +67,7 @@ description: Terralization Modpack
 + Pathfinder
 + Screen Sizer
 + Uncomplication
++ Animfix
 
 
 ### TerralizationCoreConfig
