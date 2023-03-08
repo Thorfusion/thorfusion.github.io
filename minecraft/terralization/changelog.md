@@ -26,7 +26,6 @@ description: Terralization Modpack
 ## Updated
 + Neodynmium
 + CoreTweaks
-+ Archaicfix
 + Titanpower
 
 ## Updated/Updated to LE
