@@ -40,6 +40,11 @@ description: Terralization Modpack
 + CoFH oregen now handles:
   + AM2
 
+#### Removed
+- TIC TOOLTIPS
+- OPIS
+
+
 # Version 2.9.2a
 
 ## Updated
